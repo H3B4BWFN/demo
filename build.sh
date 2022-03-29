@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "Toto";
+gcc -o bin.elf main.c
 exit;
